@@ -30,5 +30,5 @@ Yerel veritabani olusacaktir. Yaptiginiz islemler kaybolmaz! Yükleme islemi yad
 Projeyi calistirmak icin :
 ``` java main.java```
 
-Hata almadiginizdan emin olduktan sonra Kullaniciniza ait Kullanici Klasörü icerisinde "AddressKitabi" adinda bir klasör olusacaktir ve ".ak" uzantisi ile Telefon Rehberiniz olusacaktir. Gelistirip Address Bilgileri de eklenecektir. (Ilerde yapabilirim, Sinavda vakit yetmedi.)
+Hata almadiginizdan emin olduktan sonra Kullaniciniza ait Kullanici Klasörü icerisinde "AddressKitabi" adinda bir klasör olusacaktir ve ".ak" uzantisi ile Telefon Rehberiniz olusacaktir. Gelistirip Address Bilgileri de eklenecektir. (Ilerde yapabilirim, vakit yetmedi.)
 ![Görünüm](img/Screenshot_20210913_104640.png)
