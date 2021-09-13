@@ -16,7 +16,7 @@
 <br />
 
 # Yükleme
-Yükleme islemi yada kendiniz tekrar yazabilmeniz icin gereksinimleri tamamlayiniz:
+Yerel veritabani olusacaktir. Yaptiginiz islemler kaybolmaz! Yükleme islemi yada kendiniz tekrar yazabilmeniz icin gereksinimleri tamamlayiniz:
 
 ## Temel Gereksinimler:
 
